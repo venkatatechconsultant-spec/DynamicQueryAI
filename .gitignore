@@ -1,0 +1,14 @@
+bin/
+obj/
+node_modules/
+dist/
+.cache/
+.deps/
+.vs/
+.vscode/
+*.user
+*.suo
+appsettings.Development.json
+.env.local
+.env.production.local
+src/dbqueryaiengine.client/.env
